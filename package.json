@@ -1,0 +1,25 @@
+{
+  "name": "zenn-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "npx zenn preview",
+    "create": "cp ./articles/template/template.md ./articles/xxx.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ytskmt14/zenn-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytskmt14/zenn-repo/issues"
+  },
+  "homepage": "https://github.com/ytskmt14/zenn-repo#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.79"
+  }
+}
