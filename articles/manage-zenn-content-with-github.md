@@ -318,4 +318,17 @@ articles/template
 これも同様に、VScodeのnpmスクリプトから実行可能になりました。
 ![](https://storage.googleapis.com/zenn-user-upload/2l1a830ggpqj75h6ewdchhvhjl56)
 
+## 記事を公開するには
+執筆し終わったら、githubにpushする必要があります。
+
+```sh
+$ git add .
+$ git commit -m "任意のコミットメッセージ"
+$ git push
+```
+
 # まとめ
+今回は、zennの記事を執筆用のローカル環境を準備、及び既存の記事の移行をする方法を自分なりにまとめてみました。
+
+使っていく中で、よりやりやすい方法を探して、また更新していこうと思います。
+
