@@ -3,7 +3,7 @@ title: "Railsでブログをつくりたい〜プロジェクト作成編〜" # 
 emoji: "👶" # アイキャッチとして使われる絵文字（1文字だけ）
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["RubyOnRails", "Rspec"] # トピックス（タグ）["markdown", "rust", "aws"]のように指定する
-published: true # 公開設定（falseにすると下書き）
+published: false # 公開設定（falseにすると下書き）
 ---
 
 # はじめに
