@@ -487,7 +487,7 @@ rubocop実行すると結構引っかかる、、、
 21 files inspected, 93 offenses detected, 85 offenses autocorrectable
 ```
 
-[sage-autocorrect](https://docs.rubocop.org/rubocop/1.46/usage/autocorrect.html#safe-autocorrect)を実行
+[safe-autocorrect](https://docs.rubocop.org/rubocop/1.46/usage/autocorrect.html#safe-autocorrect)を実行
 ```plain:ターミナル
 → docker-compose exec web rubocop -a
 # 中略
